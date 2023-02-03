@@ -18,6 +18,12 @@ This project requires Python 3.7 and the following Python libraries installed:
 You will also need to have the software installed to run and execute a Jupyter Notebook
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select the Python 3.7 installer and not the Python 2.x installer.
+
+
+## Dataset
+-  [Download dataset](https://drive.google.com/file/d/1rvmv9Xt9bMTM_TokQi36Wq3P4dt4-Yl_/view?usp=share_link)
+
+
     
 ## Feedback
 
